@@ -36,7 +36,7 @@ services:
   - key: HEROKU_HOSTED
     value: true
   - key: LICENSE_KEY
-    value: EXPIRED-LICENSE-KEY-TRIAL
+    value: SSOP_91752410-3193-4844-ac4a-112d690628be
 
 databases:
 - name: retool
